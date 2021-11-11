@@ -47,7 +47,7 @@ const defaultMenu = {
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
 │ Github :
-│ https://github.com/LitRHap/wabot
+│ https://github.com/Bebankeluarga/wabot
 │ Instagram :
 │ https://instagram.com/loli._.school
 ╰────
