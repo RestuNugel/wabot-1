@@ -49,7 +49,7 @@ const defaultMenu = {
 │ Github :
 │ https://github.com/Bebankeluarga/wabot
 │ Instagram :
-│ https://instagram.com/loli._.school
+│ https://www.instagram.com/bebankeluarga1919199/
 ╰────
 %readmore`.trimStart(),
   header: '┏┉┄┈┈┈『%category』┈┈┈┈┈┉┓',
